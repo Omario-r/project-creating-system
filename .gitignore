@@ -17,3 +17,7 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 .DS_Store
+
+### Claude Code
+# машинно-локальные разрешения — не коммитятся
+.claude/settings.local.json
